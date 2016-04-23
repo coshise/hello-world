@@ -1,0 +1,17 @@
+branch1212/OFSTSTORE/WebContent/business/businessHome/login/first-username.jsp
+branch1212/OFSTSTORE/WebContent/business/businessHome/login/first-login.jsp
+branch1212/OFSTSTORE/src/java/com/icbc/ofst/store/apps/businessHome/statement/StatementUtils.java
+branch1212/OFSTSTORE/WebContent/business/trade/tradestore.jsp
+branch1212/OFSTSTORE/WebContent/business/trade/tradestorelist.jsp
+branch1212/OFSTSTORE/WebContent/business/trade/tradestore-detail-main.jsp
+branch1212/OFSTSTORE/WebContent/business/trade/detailed.jsp
+branch1212/OFSTSTORE/WebContent/business/trade/rejectDetailed.jsp
+branch1212/OFSTSTORE/src/java/com/icbc/ofst/payinfo/dao/map/PayInfoSqlProvider.java
+branch1212/OFSTSTORE/src/java/com/icbc/ofst/payinfo/dao/map/PayInfoSqlProvider.java
+branch1212/OFSTSTORE/WebContent/business/businessHome/resetPassword/enter-username-number.jsp
+branch1212/OFSTSTORE/WebContent/business/storeFavorable/editpreferential.jsp
+branch1212/OFSTSTORE/WebContent/business/storeFavorable/preferential.jsp
+branch1212/OFSTSTORE/WebContent/business/storeFavorable/preferential2.jsp
+branch1212/OFSTSTORE/WebContent/business/storeFavorable/revise.jsp
+branch1212/OFSTSTORE/WebContent/business/gpp/gpp-add.jsp
+branch1212/OFSTSTORE/WebContent/business/gpp/gpp-update.jsp
